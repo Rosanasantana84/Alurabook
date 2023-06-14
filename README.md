@@ -1,4 +1,4 @@
-# alurabook
+# Alurabook
 Projeto feito durante curso de responsividade Alura
 Um site do e-commerce AluraBooks, uma livraria online de livros sobre tecnologia.
 
